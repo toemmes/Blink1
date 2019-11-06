@@ -39,7 +39,7 @@ int main(void)
 		return 1;
 	}
 	sleep(1);
-	lcdClear(fd);
+	lcdClear(fd); 
 	lcdPosition(fd, 0, 0);
 	lcdPuts(fd, "Welcome To--->");
 

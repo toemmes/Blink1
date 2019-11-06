@@ -23,7 +23,7 @@
 // text zur nächste zeile
 #define LED18 22
 
-int main(void)
+int main(void) 
 {
 	wiringPiSetupSys();
 
